@@ -25,8 +25,9 @@
 #  [Link to DataSet](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)
 
 **FinaL outcome :** 
-- The final dashbord for world terrorism is found to be :
-<img src="https://github.com/utkarsh1406/TerrorismAnalysis/blob/main/World%20Terrorism%20attack.png" align = "center" idth="800" height="500">
+- The final dashbord for world terrorism is  :
+- <img src="https://github.com/utkarsh1406/global_terrorism_analysis/blob/main/final%20dashbord.png" align = "center" idth="800" height="500">
+<img src="https://github.com/utkarsh1406/global_terrorism_analysis/blob/main/World%20Terrorism%20attack.png" align = "center" idth="800" height="500">
 
 - The Terrorism in India when plotted seems to be like :
 
